@@ -21,4 +21,4 @@ Feel free to reach out if you have any questions or feedback.
 Sincerely thank you for reviewing my internship work!
 
 Darshan S
-Contact me on [LinkedIn](https://linkedin.com/in/arcticblue/) [Instagram](https://instagram.com/thedarshgowda) [Email](mailto:d7gowda@gmail.com)
+Contact me on: [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
