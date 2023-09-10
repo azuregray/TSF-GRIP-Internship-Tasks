@@ -6,10 +6,12 @@ In this repository, I present two significant tasks I accomplished during my int
 
 ## Task 1: Object Recognition
 
+Task Description: To implement an object detector which identifies objects of various different classes in images and videos.
 For this task, I implemented cutting-edge techniques in **object recognition**. The results and details can be found in the respective task folder.
 
 ## Task 2: Color Identification in Images or Video
 
+Task Description: To implement an image color detector which identifies all the colours present in images and videos.
 In my second task, I delved into the world of **color identification** in images and videos. The code and outcomes are available in the respective project directory.
 
 I'm excited to share the outcomes of both tasks, and I encourage you to explore the projects in detail.
