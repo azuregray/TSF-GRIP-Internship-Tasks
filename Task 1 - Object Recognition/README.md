@@ -1,6 +1,6 @@
 # TSF GRIP SEPTEMBER 2023 CV-IOT TASK 1
 
-## Object detection:
+## Object Detection Model (ODM)
 
 First of all, you need to install OpenCV.
 
