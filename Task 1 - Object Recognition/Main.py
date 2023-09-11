@@ -3,7 +3,7 @@
 Hi, This is DARSHAN S.
 Intern under GRIP Internship Programme @ The Sparks Foundation.
 
-Here is my first TASK DETAILS:
+Here is my First TASK DETAILS:
 Title: OBJECT RECOGNITION MODEL (ORM)
 Description: Implement an object detection model which identifies different classes of objects in an image or video.
 
