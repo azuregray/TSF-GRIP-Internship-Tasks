@@ -1,7 +1,9 @@
 #TSF GRIP SEPTEMBER 2023 CV-IOT TASK 1
 ##Object detection:
 
-First of all, you need to install OpenCV,OpenCV is an image processing library. It is designed to solve computer vision problems.
+First of all, you need to install OpenCV.
+
+> OpenCV is an image processing library. It is designed sepcifically for use in Computer Vision Applications.
 
 For Object Detection, specifies the location of multiple objects in the image
 
