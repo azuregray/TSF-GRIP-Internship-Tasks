@@ -1,3 +1,19 @@
+'''
+
+Hi, This is DARSHAN S.
+Intern under GRIP Internship Programme @ The Sparks Foundation.
+
+Here is my Second TASK DETAILS:
+Title: COLOR DETECTION MODEL (CDM) for Images and Videos
+Description: Implement an color detector model which identifies all the colors present in an image or video.
+
+Here is my code for the same:
+'''
+
+# Author: Darshan S
+# LinkedIn ID: linkedin.com/in/arcticblue/
+# Do check out my GitHub Repository: github.com/azuregray/
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
