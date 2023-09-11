@@ -19,11 +19,9 @@ The code uses the following libraries and techniques:
 5. Display the recognized objects, their bounding boxes, and confidence scores.
 6. For video, real-time object detection and recognition are performed.
 
-### Example
+### TL;DR 
 
-![Example Output](output.png)
-
-In the example above, the code uses a pre-trained model to detect and recognize objects in an image and a video stream.
+> The code uses a pre-trained model to detect and recognize objects in an image and a video stream.
 
 ### Requirements
 
