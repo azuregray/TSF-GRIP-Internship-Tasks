@@ -20,5 +20,9 @@ Additionally, you can watch my video demonstration of these tasks on my [YouTube
 Feel free to reach out if you have any questions or feedback.
 Sincerely thank you for reviewing my internship work!
 
+### Check out Video Demonstrations of these Projects and more on my YouTube Channel:
+
+> [Take me there](https://youtube.com/@thedarshgowda)
+
 Darshan S
-Contact me on: [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
+> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
