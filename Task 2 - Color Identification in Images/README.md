@@ -39,6 +39,10 @@ In the example above, the code identifies the top 5 dominant colors in the input
 - Matplotlib (`matplotlib`)
 - Scikit-learn (`sklearn`)
 
+### Check out Video Demonstration of this Project on my YouTube Channel:
+
+> [Take me there](https://youtu.be/331nMNjQZik)
+
 ### Author
 
 Darshan S
