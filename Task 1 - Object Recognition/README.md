@@ -1,6 +1,8 @@
-# GRIP23-COMPUTER-VISION-IOT-Task-1
-Object detection-
+# TSF GRIP SEPTEMBER 2023 CV-IOT TASK 2
+## Object detection:
+
 First of all, you need to install OpenCV,OpenCV is an image processing library. It is designed to solve computer vision problems.
+
 For Object Detection, specifies the location of multiple objects in the image
 
 -classification
@@ -9,10 +11,11 @@ Algorithm for object detection:
 -SSD-MobileNetv3
 dataset for object detection:
 -COCO
-	WORKING FLOW
+
+###	WORKING FLOW
 1-Importing Transfer Learning model 
 2-Import dnn_DetecctionModel
-3-Looping through the coco dataset
+3-Looping through the dataset
 4-Initializing Threshold 
 5-Testing the model on Image
 6-Looping through the Labels
