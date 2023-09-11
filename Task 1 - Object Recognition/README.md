@@ -29,6 +29,10 @@ The code uses the following libraries and techniques:
 - OpenCV (`cv2`)
 - Matplotlib (`matplotlib`)
 
+### Check out Video Demonstration of this Project on my YouTube Channel:
+
+> [Take me there](https://youtu.be/331nMNjQZik)
+
 ### Author
 
 Darshan S
