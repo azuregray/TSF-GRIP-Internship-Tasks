@@ -13,13 +13,20 @@ dataset for object detection:
 -COCO
 
 ###	WORKING FLOW
-1-Importing Transfer Learning model 
+1-Importing Transfer Learning model
+
 2-Import dnn_DetecctionModel
+
 3-Looping through the dataset
-4-Initializing Threshold 
+
+4-Initializing Threshold
+ 
 5-Testing the model on Image
+
 6-Looping through the Labels
+
 7-Implementing on Video
+
 
 We use the "file handling" method in python to read the coco data set and loop through it.
 The function imread loads an image from the specified file and returns it. 
