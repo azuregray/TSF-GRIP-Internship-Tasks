@@ -2,46 +2,41 @@
 
 ## Object Detection Model (ODM)
 
-First of all, you need to install OpenCV.
+This repository contains Python code for object detection and recognition using a pre-trained deep learning model.
+The code uses the following libraries and techniques:
 
-> OpenCV is an image processing library. It is designed sepcifically for use in Computer Vision Applications.
+- OpenCV (`cv2`) for image and video processing.
+- Matplotlib (`matplotlib`) for visualization.
+- A pre-trained deep learning model for object detection.
+- Class labels for recognizing objects.
 
-For Object Detection, specifies the location of multiple objects in the image
+### Usage
 
--classification
--localization
+1. Specify the configuration file (`config_file`) and frozen model file (`frozen_model`) for the pre-trained model.
+2. Load class labels from a text file (`file_name`) to recognize objects.
+3. Configure model input size, scaling, and color format.
+4. Load an image or a video for object detection and recognition.
+5. Display the recognized objects, their bounding boxes, and confidence scores.
+6. For video, real-time object detection and recognition are performed.
 
-> Algorithm for object detection: SSD-MobileNetv3
+### Example
 
-> Dataset for object detection: COCO
+![Example Output](output.png)
 
-###	WORKING FLOW
-> 1 - Importing Transfer Learning model
+In the example above, the code uses a pre-trained model to detect and recognize objects in an image and a video stream.
 
-> 2 - Import dnn_DetecctionModel
+### Requirements
 
-> 3 - Looping through the dataset
+- Python 3.x
+- OpenCV (`cv2`)
+- Matplotlib (`matplotlib`)
 
-> 4 - Initializing Threshold
+### License
 
-> 5 - Testing the model on Image
+This code is provided under the [MIT License](LICENSE).
 
-> 6 - Looping through the Labels
+### Author
 
-> 7 - Implementing on Video
-
-
-We use the *File Handling* method in python to read the dataset set and loop through it.
-The function *imread* loads an image from the specified file and returns it. 
-Creates a *BLOB (Binary Large OBject)* and using the function blobFromImage
-We specifically set the BLOB to be 320x320 pixels.
-Keeping scale factor *1.0/127.5* along with the Mean.
-These numbers are changeable for suiting the best appropriate results.
-
-In order to classify the objects in the image, we have to define a particular threshold. 
-
-So that if the value is more than that particular threshold, then the object will be classified into that particular class.
-
-After initializing the threshold in order to classify the image, we have to loop through the labels and compare the object with a particular label.
-
+Darshan S
+> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
 
