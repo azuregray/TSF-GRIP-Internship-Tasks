@@ -1,5 +1,6 @@
-#TSF GRIP SEPTEMBER 2023 CV-IOT TASK 1
-##Object detection:
+# TSF GRIP SEPTEMBER 2023 CV-IOT TASK 1
+
+## Object detection:
 
 First of all, you need to install OpenCV.
 
