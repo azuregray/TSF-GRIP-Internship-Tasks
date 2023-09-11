@@ -29,10 +29,6 @@ The code uses the following libraries and techniques:
 - OpenCV (`cv2`)
 - Matplotlib (`matplotlib`)
 
-### License
-
-This code is provided under the [MIT License](LICENSE).
-
 ### Author
 
 Darshan S
