@@ -42,3 +42,4 @@ In the example above, the code identifies the top 5 dominant colors in the input
 ### Author
 
 Darshan S
+Contact me on: [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
