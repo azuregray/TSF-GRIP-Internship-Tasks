@@ -1,5 +1,5 @@
-# TSF GRIP SEPTEMBER 2023 CV-IOT TASK 2
-## Object detection:
+#TSF GRIP SEPTEMBER 2023 CV-IOT TASK 1
+##Object detection:
 
 First of all, you need to install OpenCV,OpenCV is an image processing library. It is designed to solve computer vision problems.
 
@@ -7,33 +7,33 @@ For Object Detection, specifies the location of multiple objects in the image
 
 -classification
 -localization
-Algorithm for object detection:
--SSD-MobileNetv3
-dataset for object detection:
--COCO
+
+> Algorithm for object detection: SSD-MobileNetv3
+
+> Dataset for object detection: COCO
 
 ###	WORKING FLOW
-1-Importing Transfer Learning model
+> 1 - Importing Transfer Learning model
 
-2-Import dnn_DetecctionModel
+> 2 - Import dnn_DetecctionModel
 
-3-Looping through the dataset
+> 3 - Looping through the dataset
 
-4-Initializing Threshold
- 
-5-Testing the model on Image
+> 4 - Initializing Threshold
 
-6-Looping through the Labels
+> 5 - Testing the model on Image
 
-7-Implementing on Video
+> 6 - Looping through the Labels
+
+> 7 - Implementing on Video
 
 
-We use the "file handling" method in python to read the coco data set and loop through it.
-The function imread loads an image from the specified file and returns it. 
-create a blob or (Binary large object) and using the function blobFromImage
-we give it a 320 by 320 pixel blob
-with scale factor 1.0/127.5 and the mean.
-you can play with these numbers and see yourself which gives you the best results.
+We use the *File Handling* method in python to read the dataset set and loop through it.
+The function *imread* loads an image from the specified file and returns it. 
+Creates a *BLOB (Binary Large OBject)* and using the function blobFromImage
+We specifically set the BLOB to be 320x320 pixels.
+Keeping scale factor *1.0/127.5* along with the Mean.
+These numbers are changeable for suiting the best appropriate results.
 
 In order to classify the objects in the image, we have to define a particular threshold. 
 
