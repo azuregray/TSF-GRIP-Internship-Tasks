@@ -14,6 +14,8 @@ For this task, I implemented cutting-edge techniques in **object recognition**. 
 ### Task Description: *To implement an image color detector which identifies all the colours present in images and videos.*
 In my second task, I delved into the world of **color identification** in images and videos. The code and outcomes are available in the respective project directory.
 
+---
+
 I'm excited to share the outcomes of both tasks, and I encourage you to explore the projects in detail.
 Additionally, you can watch my video demonstration of these tasks on my [YouTube Channel](https://www.youtube.com/@thedarshgowda).
 
