@@ -1,4 +1,9 @@
-# TSF GRIP Internship Showcase
+# **T H E &emsp; S P A R K S &emsp; F O U N D A T I O N**
+## TSF GRADUAL ROTATIONAL INTERNSHIP PROGRAMME
+
+> Author: **Darshan S**
+
+> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
 
 Welcome to my internship showcase as part of the **Graduate Rotational Internship Programme** with [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/). 
 
@@ -26,5 +31,4 @@ Sincerely thank you for reviewing my internship work!
 
 > [Take me there](https://youtube.com/@thedarshgowda)
 
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Mail](mailto:d7gowda@gmail.com)
+---
