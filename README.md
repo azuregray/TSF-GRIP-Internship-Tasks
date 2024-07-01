@@ -34,6 +34,12 @@ Feel free to reach out if you have any questions or feedback.
 Sincere Thanks for reviewing my internship work!
 
 ---
+
+- **URL for the origin repository is as below**
+
+> https://github.com/azuregray/TSF-GRIP-Internship-Tasks
+
+---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel
 
 > [YouTube Channel](https://youtube.com/@pantoneblue)
