@@ -13,18 +13,21 @@ In this repository, I present two significant tasks I accomplished during my int
 
 ## Task 1: Object Recognition
 
-### Task Description: *To implement an object detector which identifies objects of various different classes in images and videos.*
+#### Task Description: 
+> *To implement an object detector which identifies objects of various different classes in images and videos.*
+
 For my first task, I implemented cutting-edge techniques in **object recognition**. The results and details can be found in the respective task folder.
 
 ## Task 2: Media Color Identification
 
-### Task Description: *To implement an image color detector which identifies all the colours present in images and videos.*
+#### Task Description:
+> *To implement an image color detector which identifies all the colours present in images and videos.*
+
 In my second task, I delved into the world of **color identification** in images and videos. The code and outcomes are available in the respective project directory.
 
 ---
 
 I'm excited to share the outcomes of both tasks, and I encourage you to explore the projects in detail.
-Additionally, you can watch my video demonstration of these tasks on my [YouTube Channel](https://www.youtube.com/@thedarshgowda).
 
 Feel free to reach out if you have any questions or feedback.
 Sincere Thanks for reviewing my internship work!
@@ -32,6 +35,6 @@ Sincere Thanks for reviewing my internship work!
 ---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel:
 
-> [Take me there](https://youtube.com/@thedarshgowda)
+> [YouTube Channel](https://youtube.com/@pantoneblue)
 
 ---
