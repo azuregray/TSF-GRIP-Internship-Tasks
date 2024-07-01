@@ -1,5 +1,5 @@
 # **T H E &emsp; S P A R K S &emsp; F O U N D A T I O N**
-## TSF GRADUAL ROTATIONAL INTERNSHIP PROGRAMME
+## G R A D U T E &ensp; R O T A T I O N A L &ensp; I N T E R N S H I P &ensp; P R O G R A M
 
 > Author: **Darshan S**
 
