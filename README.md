@@ -1,6 +1,6 @@
 # **T H E &emsp; S P A R K S &emsp; F O U N D A T I O N**
-## G R A D U T E &ensp; R O T A T I O N A L &ensp; I N T E R N S H I P &ensp; P R O G R A M
-
+## G R A D U A T E &ensp; R O T A T I O N A L &ensp; I N T E R N S H I P &ensp; P R O G R A M
+---
 > Author: **Darshan S**
 
 > My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
