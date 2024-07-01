@@ -27,4 +27,4 @@ Sincerely thank you for reviewing my internship work!
 > [Take me there](https://youtube.com/@thedarshgowda)
 
 Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
+> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Mail](mailto:d7gowda@gmail.com)
