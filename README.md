@@ -9,12 +9,12 @@ Welcome to my internship showcase as part of the **Graduate Rotational Internshi
 
 In this repository, I present two significant tasks I accomplished during my internship:
 
-## Task 1: Object Recognition
+## TASK 1: OBJECT RECOGNITION
 
 ### Task Description: *To implement an object detector which identifies objects of various different classes in images and videos.*
 For this task, I implemented cutting-edge techniques in **object recognition**. The results and details can be found in the respective task folder.
 
-## Task 2: Color Identification in Images or Video
+## TASK 2: MEDIA COLOR IDENTIFICATION
 
 ### Task Description: *To implement an image color detector which identifies all the colours present in images and videos.*
 In my second task, I delved into the world of **color identification** in images and videos. The code and outcomes are available in the respective project directory.
