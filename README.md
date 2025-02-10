@@ -4,7 +4,7 @@
 
 > Author: **D A R S H A N &ensp; S**
 
-> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
+> My Identity >>  [**`GitHub`**](https://github.com/azuregray/)
 
 ---
 
@@ -42,6 +42,6 @@ Sincere Thanks for reviewing my internship work!
 ---
 ### Check out Video Demonstrations of these Projects and more on my YouTube Channel
 
-> [YouTube Channel](https://youtube.com/@pantoneblue)
+> [YouTube Channel](https://youtube.com/@pantoneblack)
 
 ---
