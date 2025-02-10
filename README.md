@@ -2,7 +2,7 @@
 ## G R A D U A T E &ensp; R O T A T I O N A L &ensp; I N T E R N S H I P &ensp; P R O G R A M
 ### SEPTEMBER - OCTOBER 2023
 
-> Author: **D A R S H A N &ensp; S**
+> Author: **`D A R S H A N  S`**
 
 > My Identity >>  [**`GitHub`**](https://github.com/azuregray/)
 
